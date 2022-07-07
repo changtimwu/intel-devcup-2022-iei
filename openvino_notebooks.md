@@ -64,10 +64,12 @@ jupyter lab notebooks
 ```
 jupyter lab notebooks --ip=0.0.0.0
 ```
-* 使用 browser 存取 jupyterlab
-- 本地 http://localhost:8888/labs?token=<token>
-- 遠端 http://<edge box ip>:8888/labs?token=<token>
-
+* 開啟 browser 存取 jupyterlab
+URL 需帶入剛剛紀錄下來的 token 
+```
+local :  http://localhost:8888/labs?token=<token>
+remote : http://<edge box ip>:8888/labs?token=<token>
+```
 ## 完整過程影片
 * https://youtu.be/BrwXdjY_UO8
 
