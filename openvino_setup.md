@@ -28,7 +28,7 @@ apt list --installed | grep openvino
 sudo apt install openvino-opencv
 ```
 
-## 設定 GPU dconfiguration
+## GPU configuration
 * 至下列目錄
 ```
 cd /opt/intel/openvino_2022/install_dependencies/
