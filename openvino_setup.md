@@ -28,12 +28,12 @@ apt list --installed | grep openvino
 sudo apt install openvino-opencv
 ```
 
-## 設定 GPU configuration
+## 設定 GPU dconfiguration
 * 至下列目錄
 ```
 cd /opt/intel/openvino_2022/install_dependencies/
 ```
-* 安裝 driver
+* 安裝 OpenCL driver
 ```
 sudo -E ./install_NEO_OCL_driver.sh
 ``` 
