@@ -1,5 +1,4 @@
 # Install JupyterLab and OpenVINO Notebooks
-Intel OpenVINO 官方範例, 以 jupyter notebook 形式呈現, 含括多種應用
 
 ## 安裝步驟
 *  Install Python, Git and all essential tools
@@ -34,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 ## 完整過程影片
-* 
+* https://youtu.be/BrwXdjY_UO8
 
 ## 參考資料
 * https://github.com/openvinotoolkit/openvino_notebooks/wiki/Ubuntu
