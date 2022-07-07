@@ -1,0 +1,15 @@
+# Walk through basic notebooks
+
+## 重點講解
+
+### [001-hello-world](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/001-hello-world)
+* you should see
+
+### [002-openvino-api](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/002-openvino-api)
+* 要看到 GPU device
+
+### [004-hello-detection](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/004-hello-detection)
+* 有正確 detection
+
+## 過程影片
+* youtube
