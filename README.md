@@ -11,6 +11,7 @@
 * HDMI Display
 
 ## 安裝 Ubuntu 20.04
+* Power on the device by pressing the [power button](powerbutton.jpg) 
 * 詳閱 [安裝影片](https://youtu.be/u8tq-IEPeYE)
 
 ## 安裝及設定 Intel OpenVINO™ Toolkit
